@@ -1,4 +1,4 @@
-# Pokemon_NFH
+# Pokémon NFT Game (ERC-721)
 
 IPFS:
 
