@@ -1,3 +1,11 @@
+A fun NFT game project based on Pokémon.
+
+Players can mint Pokémon as NFTs.
+
+Built with ERC-721 smart contracts in Solidity.
+
+Future improvements: battles and evolutions through blockchain logic.
+
 # Pokémon NFT Game (ERC-721)
 
 IPFS:
